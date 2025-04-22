@@ -1,6 +1,6 @@
-# Social Media Chat Analyzer
+# Whatsapp Chat Analysis
 
-This project is a **Social Media Chat Analyzer** built with Python and Streamlit. It provides insightful analysis on chat logs, including statistics, activity patterns, word usage, emoji usage, and sentiment analysis. The tool supports both individual and group-level analysis.
+This project is a **Whatsapp Chat Analyzer** built with Python and Streamlit. It provides insightful analysis on chat logs, including statistics, activity patterns, word usage, emoji usage, and sentiment analysis. The tool supports both individual and group-level analysis.
 
 ## 🚀 Features
 
@@ -29,12 +29,12 @@ This project is a **Social Media Chat Analyzer** built with Python and Streamlit
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/divyanshusaini47/Whatsapp-chat-analysis
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Whatsapp-Chat-Analyzer
+   cd Whatsapp-chat-analysis
    ```
 
 3. Install the required Python packages:
