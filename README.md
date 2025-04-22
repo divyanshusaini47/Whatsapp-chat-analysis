@@ -39,7 +39,7 @@ This project is a **Whatsapp Chat Analyzer** built with Python and Streamlit. It
 
 3. Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip/pip3 install -r requirements.txt
    ```
 
 ## 📈 Usage
